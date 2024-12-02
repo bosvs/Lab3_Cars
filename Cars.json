@@ -1,0 +1,82 @@
+[
+  {
+    "Model": "Corolla",
+    "Mark": "Toyota",
+    "WheelDiameter": "15",
+    "Weight": "1300",
+    "Type": "Sedan",
+    "Description": "Компактний та економічний седан від Toyota."
+  },
+  {
+    "Model": "Mustang",
+    "Mark": "Ford",
+    "WheelDiameter": "1",
+    "Weight": "1600",
+    "Type": "седан",
+    "Description": "Іконічний американський м’язовий автомобіль з потужною продуктивністю."
+  },
+  {
+    "Model": "Model S",
+    "Mark": "Tesla",
+    "WheelDiameter": "19",
+    "Weight": "2000",
+    "Type": "Sedan",
+    "Description": "Повністю електричний розкішний седан з передовими технологіями."
+  },
+  {
+    "Model": "Civic",
+    "Mark": "Honda",
+    "WheelDiameter": "16",
+    "Weight": "10",
+    "Type": "diog",
+    "Description": "Надійний компактний седан, відомий своєю ефективністю та довговічністю."
+  },
+  {
+    "Model": "Camaro",
+    "Mark": "Chevrolet",
+    "WheelDiameter": "15",
+    "Weight": "1700",
+    "Type": "Coupe",
+    "Description": "Спортивний автомобіль високої продуктивності з сміливим, агресивним дизайном."
+  },
+  {
+    "Model": "3 Series",
+    "Mark": "BMW",
+    "WheelDiameter": "17",
+    "Weight": "1500",
+    "Type": "Sedan",
+    "Description": "Преміум седан, який поєднує розкіш, продуктивність та стиль."
+  },
+  {
+    "Model": "C-Class",
+    "Mark": "Mercedes-Benz",
+    "WheelDiameter": "18",
+    "Weight": "1600",
+    "Type": "Sedan",
+    "Description": "Розкішний седан, що поєднує комфорт, продуктивність і елегантність."
+  },
+  {
+    "Model": "A4",
+    "Mark": "Audi",
+    "WheelDiameter": "17",
+    "Weight": "1500",
+    "Type": "Sedan",
+    "Description": "Преміум седан з вишуканим дизайном і передовими функціями."
+  },
+  {
+    "Model": "Wrangler",
+    "Mark": "Jeep",
+    "WheelDiameter": "18",
+    "Weight": "1800",
+    "Type": "SUV",
+    "Description": "Міцний позашляховик з винятковими можливостями 4x4."
+  },
+  {
+    "Model": "Q7",
+    "Mark": "Audi",
+    "WheelDiameter": "20",
+    "Weight": "2300",
+    "Type": "SUV",
+    "Description": "Розкішний SUV з передовими функціями та просторим салоном."
+  }
+]
